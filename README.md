@@ -7,6 +7,21 @@ This repository contains interactive Jupyter notebooks for exploring SochDB from
 - database and transaction basics
 - advanced AI-oriented patterns
 
+## Laptop Learning Path
+
+If someone just installed SochDB on their laptop and wants a clear progression,
+start here:
+
+- [Laptop Learning Path](./LAPTOP_LEARNING_PATH.md)
+
+It groups the notebooks into:
+
+- `Basic`
+- `Intermediate`
+- `Advanced`
+
+and gives concrete tasks to complete at each level.
+
 The notebook set is intentionally uneven in scope. Some notebooks are part of the validated public `pip install sochdb` path today, while others show broader platform capabilities or external-API-dependent workflows.
 
 ## Show This Product First
